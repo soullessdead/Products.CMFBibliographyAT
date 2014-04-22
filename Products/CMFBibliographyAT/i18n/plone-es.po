@@ -1,0 +1,297 @@
+# Gettext Message File for CMFBibliographyAT.
+# Raphael Ritz <r.ritz@biologie.hu-berlin.de>, 2002-2006
+# Translators:
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2014
+# soullessdead <soulless_dead@hotmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: Plone CMS\n"
+"POT-Creation-Date: 2004-04-13 21:25+0000\n"
+"PO-Revision-Date: 2014-03-23 21:41+0000\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/plone/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Domain: plone\n"
+"Language: es\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Preferred-Encodings: latin1\n"
+"X-Is-Fallback-For: en-au en-bz en-ca en-ie en-jm en-nz en-ph en-za en-tt en-gb en-us en-zw\n"
+
+#. Default: "Bibliography Setup"
+#: plone_control_panel
+msgid "Bibliography Setup"
+msgstr "Configuración Bibliografía"
+
+#. Default: "Publication date"
+#: catalog indexes
+msgid "publication_date"
+msgstr "Fecha de publicación"
+
+#. Default: "Publication year"
+#: catalog indexes
+msgid "publication_year"
+msgstr "Año de publicación"
+
+#. Default: "Bibliographical Authors"
+#: catalog indexes
+msgid "Authors"
+msgstr "Autores Bibliográficas"
+
+#. Default: "Single (Co)Authors"
+#: catalog indexes
+msgid "AuthorItems"
+msgstr "(Co)Autores individuales"
+
+#. Default: "Bibliography Folder"
+#: archetype names of bibliography folder types
+msgid "Bibliography Folder"
+msgstr "Carpeta Bibliografía"
+
+#. Default: "Large Bibliography Folder"
+#: archetype names of bibliography folder types
+msgid "Large Bibliography Folder"
+msgstr "Carpeta Grande Bibliografía"
+
+#. Default: "Duplicates Bibliography Folder"
+#: archetype names of bibliography folder types
+msgid "Duplicates Bibliography Folder"
+msgstr "Carpeta Bibliografía Duplicadas"
+
+#. Default: "Article Reference"
+#: archetype names of reference types
+msgid "Article Reference"
+msgstr "Referencia de Artículo"
+
+#. Default: "Booklet Reference"
+#: archetype names of reference types
+msgid "Booklet Reference"
+msgstr "Referencia de Folleto"
+
+#. Default: "Book Reference"
+#: archetype names of reference types
+msgid "Book Reference"
+msgstr "Referencia de Libro"
+
+#. Default: "Conference Reference"
+#: archetype names of reference types
+msgid "Conference Reference"
+msgstr "Referencia de Conferencia"
+
+#. Default: "Inbook Reference"
+#: archetype names of reference types
+msgid "Inbook Reference"
+msgstr "Referencia en el Libro"
+
+#. Default: "Incollection Reference"
+#: archetype names of reference types
+msgid "Incollection Reference"
+msgstr "Referencia en la Colección"
+
+#. Default: "Inproceedings Reference"
+#: archetype names of reference types
+msgid "Inproceedings Reference"
+msgstr "Referencia Inproceedings"
+
+#. Default: "Manual Reference"
+#: archetype names of reference types
+msgid "Manual Reference"
+msgstr "Referencia de Manual"
+
+#. Default: "Mastersthesis Reference"
+#: archetype names of reference types
+msgid "Mastersthesis Reference"
+msgstr "Referencia de Tesis del Maestría "
+
+#. Default: "Misc Reference"
+#: archetype names of reference types
+msgid "Misc Reference"
+msgstr "Referencia Diversas"
+
+#. Default: "Phdthesis Reference"
+#: archetype names of reference types
+msgid "Phdthesis Reference"
+msgstr "Referencia de Tesis de Ph.D."
+
+#. Default: "Preprint Reference"
+#: archetype names of reference types
+msgid "Preprint Reference"
+msgstr "Referencia de Pre-impresión"
+
+#. Default: "Proceedings Reference"
+#: archetype names of reference types
+msgid "Proceedings Reference"
+msgstr "Referencia de Actas"
+
+#. Default: "Techreport Reference"
+#: archetype names of reference types
+msgid "Techreport Reference"
+msgstr "Referencia de Informe Técnico"
+
+#. Default: "Unpublished Reference"
+#: archetype names of reference types
+msgid "Unpublished Reference"
+msgstr "Referencia Inédita"
+
+#. Default: "Webpublished Reference"
+#: archetype names of reference types
+msgid "Webpublished Reference"
+msgstr "Referencia de publicado en la Web"
+
+#. Default: "PDF Folder"
+#: archetype names of PDF file/folder
+msgid "PDF Folder"
+msgstr "Carpeta PDF"
+
+#. Default: "PDF File"
+#: archetype names of reference types
+msgid "PDF File"
+msgstr "Archivo PDF"
+
+#. Default: "Bibliography Folder"
+#: portal_type names of bibliography folder types
+msgid "BibliographyFolder"
+msgstr "Carpeta Bibiografia"
+
+#. Default: "Large Bibliography Folder"
+#: portal_type names of bibliography folder types
+msgid "LargeBibliographyFolder"
+msgstr "Carpeta Grande de Bibliografía"
+
+#. Default: "Duplicates Bibliography Folder"
+#: portal_type names of bibliography folder types
+msgid "DuplicatesBibliographyFolder"
+msgstr "Carpeta Bibliografía Duplicadas"
+
+#. Default: "Article Reference"
+#: portal_type names of reference types
+msgid "ArticleReference"
+msgstr "Referencia de Artículo"
+
+#. Default: "Booklet Reference"
+#: portal_type names of reference types
+msgid "BookletReference"
+msgstr "Referencia de Folleto"
+
+#. Default: "Book Reference"
+#: portal_type names of reference types
+msgid "BookReference"
+msgstr "Referencia de Libro"
+
+#. Default: "Conference Reference"
+#: portal_type names of reference types
+msgid "ConferenceReference"
+msgstr "Referencia de Conferencia"
+
+#. Default: "Inbook Reference"
+#: portal_type names of reference types
+msgid "InbookReference"
+msgstr "Referencia en el Libro"
+
+#. Default: "Incollection Reference"
+#: portal_type names of reference types
+msgid "IncollectionReference"
+msgstr "Referencia en la Colección"
+
+#. Default: "Inproceedings Reference"
+#: portal_type names of reference types
+msgid "InproceedingsReference"
+msgstr "Referencia Inproceedings"
+
+#. Default: "Manual Reference"
+#: portal_type names of reference types
+msgid "ManualReference"
+msgstr "Referencia de Manual"
+
+#. Default: "Mastersthesis Reference"
+#: portal_type names of reference types
+msgid "MastersthesisReference"
+msgstr "Referencia de Tesis de Maestría"
+
+#. Default: "Misc Reference"
+#: portal_type names of reference types
+msgid "MiscReference"
+msgstr "Referencia Diversas"
+
+#. Default: "Phdthesis Reference"
+#: portal_type names of reference types
+msgid "PhdthesisReference"
+msgstr "Referencia de Tesis Ph.D."
+
+#. Default: "Preprint Reference"
+#: portal_type names of reference types
+msgid "PreprintReference"
+msgstr "Referencia de Pre-impresión"
+
+#. Default: "Proceedings Reference"
+#: portal_type names of reference types
+msgid "ProceedingsReference"
+msgstr "Referencia de Actas"
+
+#. Default: "Techreport Reference"
+#: portal_type names of reference types
+msgid "TechreportReference"
+msgstr "Referencia de Informe Técnico"
+
+#. Default: "Unpublished Reference"
+#: portal_type names of reference types
+msgid "UnpublishedReference"
+msgstr "Referencia de Inédita"
+
+#. Default: "Webpublished Reference"
+#: portal_type names of reference types
+msgid "WebpublishedReference"
+msgstr "Referencia publicado en la Web"
+
+#. Default: "PDF Folder"
+#: portal_type names of PDF file/folder
+msgid "PdfFolder"
+msgstr "Carpeta PDF"
+
+#. Default: "PDF File"
+#: portal_type names of reference types
+msgid "PdfFile"
+msgstr "Archivo PDF"
+
+#. Default: "Manage Duplicates"
+#: portal tab of bibliography folder
+msgid "Manage Duplicates"
+msgstr "Administrar Duplicados"
+
+#. Default: "Defaults"
+#: portal tab of bibliography folder
+msgid "Defaults"
+msgstr "Por defecto"
+
+#. Default: "default"
+#: fieldsets of bibliographical entry schemata
+msgid "default"
+msgstr "por defecto"
+
+#. Default: "full text"
+#: fieldsets of bibliographical entry schemata
+msgid "full text"
+msgstr "Texto completo"
+
+#. Default: "Export Bibliography"
+#: document actions
+msgid "Export Bibliography"
+msgstr "Exportar Bibliografía"
+
+#. Default: "Import Bibliography"
+#: document actions
+msgid "Import Bibliography"
+msgstr "Importar Bibliografía"
+
+#. Default: "Printable file (PDF)"
+#: document actions
+msgid "Printable file (PDF)"
+msgstr "Archivo imprimible (PDF)"
+
+#. Default: "Bibliography Search"
+#: portal_tab actions
+msgid "Bibliography Search"
+msgstr "Búsqueda de Bibliografía"
