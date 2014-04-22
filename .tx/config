@@ -1,0 +1,15 @@
+[main]
+host = https://www.transifex.com
+
+[plone.cmfbibliographyat]
+file_filter = Products/CMFBibliographyAT/i18n/cmfbibliographyat-<lang>.po
+source_file = Products/CMFBibliographyAT/i18n/cmfbibliographyat-generated.pot
+source_lang = en
+type = PO
+
+[plone.cmfbibliographyat-plone]
+file_filter = Products/CMFBibliographyAT/i18n/plone-<lang>.po
+source_file = Products/CMFBibliographyAT/i18n/plone-generated.pot
+source_lang = en
+type = PO
+
