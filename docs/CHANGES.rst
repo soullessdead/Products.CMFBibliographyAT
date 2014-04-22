@@ -7,6 +7,9 @@ Changelog
 
 * Added Spanish Translation [soullessdead]
 
+* Add transifex-client package integration for translations tasks
+  support with Transifex.com software [soullessdead]
+
 1.1.4 (2013-09-16)
 ------------------
 
